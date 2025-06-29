@@ -1,6 +1,5 @@
-# Scratch starter project
+# JUSPAY SCRATCH ASSIGNMENT
 
-To get started:
+Deployed URL: https://scratch-juspay.vercel.app
 
-- Run `npm i` to install dependencies
-- Run `npm start` and open http://localhost:3000 to see the app
+Screen Recording URL: https://drive.google.com/file/d/1Tu3ZwX49Fn3ceN3EcrOfG2o1mTLF8N0o/view?usp=sharing
